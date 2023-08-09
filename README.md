@@ -12,13 +12,21 @@ deployed and tested by running real-time object detector (YOLO and Tiny-YOLO) wi
 custom-trained models. Finally, this project addresses how the combined technology 
 employed can assist farmers and agronomists in their decision-making and management 
 processes.
+
 **Specific Contribution:**
 • Labelling images in the dataset using LabelImg software.
+
 • Training different versions of YOLOv8 for the selection of best.
+
 **Specific Learning**
 • Understanding the working of MQTT for communication establishment.
+
 • Understanding the working of YOLO for object recognition.
+
 • Leant how to extract results from running model.
+
 **Technical Limitations & Ethical Challenges Faced**
+
 • Difficulty in training the model and selection of number of iterations for best fit.
+
 • Difficulty in porting the model over to IoT edge node.
