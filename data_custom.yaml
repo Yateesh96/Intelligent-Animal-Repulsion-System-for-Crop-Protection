@@ -1,0 +1,6 @@
+train: C:\Users\Yatee\Desktop\train
+val: C:\Users\Yatee\Desktop\val
+
+nc: 5
+
+names: ["housecrow","housesparrow","peafowls","rockpigeons","roseringedparrot"]
